@@ -4,7 +4,7 @@
 ## Requirements
 - [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  
 - [VRCHAT](https://hello.vrchat.com/)  
-- [AXIS Control Center]([https://hello.vrchat.com/](https://downloads.axisxr.gg/cc/beta/default))
+- [AXIS Control Center](https://downloads.axisxr.gg/cc/beta/default)
 - [AXIS SteamVR Driver](https://downloads.axisxr.gg/essential)
 
 ## Instllation
