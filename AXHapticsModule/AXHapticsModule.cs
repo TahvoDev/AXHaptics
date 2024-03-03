@@ -7,7 +7,7 @@ namespace VRCOSC.Modules.AXHaptics
     [ModuleTitle("AXHaptics")]
     [ModuleDescription("Haptics Support for AXIS Trackers")]
     [ModuleAuthor("TahvoVR")]
-    [ModulePrefab("VRCOSC-AXHapticsAvatarPrefab", "https://github.com/TahvoDev/AXHaptics/releases/download/latest/AXHaptics.unitypackage")]
+    [ModulePrefab("AXHaptics Avatar Prefab", "https://github.com/TahvoDev/AXHaptics/releases/download/latest/AXHaptics.unitypackage")]
     [ModuleGroup(ModuleType.General)]
     public partial class AXHapticsModule : AvatarModule
     {
