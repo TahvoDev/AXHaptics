@@ -2,10 +2,10 @@
 (Unofficial) [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  Module enabling haptics Support for [AXIS Trackers](https://axisxr.gg/) by [Refract Technologies](https://www.codecademy.com/pages/contribute-docs) https://refract.gg/
 
 ## Requirements
-[VRCOSC](https://github.com/VolcanicArts/VRCOSC)
-[VRCHAT](https://hello.vrchat.com/)
-[AXIS Control Center]([https://hello.vrchat.com/](https://downloads.axisxr.gg/cc/beta/default))
-[AXIS SteamVR Driver](https://downloads.axisxr.gg/essential)
+- [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  
+- [VRCHAT](https://hello.vrchat.com/)  
+- [AXIS Control Center]([https://hello.vrchat.com/](https://downloads.axisxr.gg/cc/beta/default))
+- [AXIS SteamVR Driver](https://downloads.axisxr.gg/essential)
 
 ## Instllation
 Dowload the latest build from the release page and add the file to the VRC OSC Data folder %appdata%\Roaming\VRCOSC\assemblies  
