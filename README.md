@@ -1,5 +1,5 @@
 # AXHaptics
-(Unofficial) [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  Module enabling haptics support for [AXIS Trackers](https://axisxr.gg/) by [Refract Technologies](https://www.codecademy.com/pages/contribute-docs) https://refract.gg/
+(Unofficial) [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  Module enabling haptics support for [AXIS Trackers](https://axisxr.gg/) by [Refract Technologies](https://refract.gg/) 
 
 ## Requirements
 - [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  
