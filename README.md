@@ -8,7 +8,10 @@
 - [AXIS SteamVR Driver](https://downloads.axisxr.gg/essential)
 
 ## Instllation
-Dowload the latest build from the release page and add the file to the VRC OSC Data folder %appdata%\Roaming\VRCOSC\assemblies  
+Dowload the latest build from the release page and add the file to the VRC OSC Data folder:    
+
+%appdata%\Roaming\VRCOSC\assemblies  
+
 See Wiki for Avatar Creation  
 
 ## Credit
