@@ -10,7 +10,7 @@
 ## Instllation
 Dowload the latest build from the release page and add the file to the VRC OSC Data folder:    
 
-%appdata%\Roaming\VRCOSC\assemblies  
+%appdata%\VRCOSC\assemblies  
 
 Enable the module 
 ![image](https://github.com/TahvoDev/AXHaptics/assets/100007692/2b5767a8-78d5-4413-9cfb-b033c9900f24)
