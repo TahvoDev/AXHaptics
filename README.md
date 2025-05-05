@@ -1,5 +1,9 @@
+Since AXIS Trackers are no longer for sale, this repository will not be updated. Haptics are now featured in: 
+https://github.com/ButterscotchV/AXSlime
+
 # AXHaptics
 (Unofficial) [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  Module enabling haptics support for [AXIS Trackers](https://axisxr.gg/) by [Refract Technologies](https://refract.gg/) 
+
 
 ## Requirements
 - [VRCOSC](https://github.com/VolcanicArts/VRCOSC)  
@@ -20,5 +24,6 @@ See Wiki for Avatar Creation
 
 ## Credit
   - AXIS Unity SDK <https://github.com/Refract-Technologies/AXIS-SDK-Unity>
-  - AxSlime <https://github.com/ButterscotchV/AXSlime>
+  - AxSlime <
+  >
   - VRCOSC <https://github.com/VolcanicArts/VRCOSC>
