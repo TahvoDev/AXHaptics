@@ -1,4 +1,4 @@
-Since AXIS Trackers are no longer for sale, this repository will not be updated. Haptics are now featured in: 
+This repository will no longer be updated. Please use AXSlime instead for haptics support: 
 https://github.com/ButterscotchV/AXSlime
 
 # AXHaptics
